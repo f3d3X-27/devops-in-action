@@ -28,6 +28,7 @@
    1. **Import Project**, y seleccionar la carpeta del proyecto.
    1. Marcar **Create Project from external model**, elegir **Maven**.
    1. **Next** … **Finish**.
+   
 
 ### :book: Diapositivas
 * [Diapositivas de DevOps](docs/miw-iwvg-devops-slides.pdf)   
